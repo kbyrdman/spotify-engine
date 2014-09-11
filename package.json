@@ -1,0 +1,19 @@
+{
+  "name": "spotify-engine",
+  "version": "0.0.1",
+  "description": "Serves spotify track information upon requests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amirrajan/nodejs-chat.git"
+  },
+  "dependencies": {
+    "express": "~3.0.1"
+  },
+  "engines": {
+    "node": ">=0.8.x"
+  }
+}
